@@ -11,7 +11,7 @@
         <div class="container">
             <ul>
                 <li><a href="#">Home</a><i>|</i></li>
-                <li>Patient Login</li>
+                <li>Patient Registration</li>
             </ul>
         </div>
     </div>
