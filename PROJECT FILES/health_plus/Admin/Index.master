@@ -106,7 +106,7 @@
                         <div class="col-md-4 w3agile_footer_grid">
                             <h3>Contact Info</h3>
                             <ul>
-                                <li><i class="fa fa-map-marker" aria-hidden="true"></i>Iconestoga college, <span>.</span></li>
+                                <li><i class="fa fa-map-marker" aria-hidden="true"></i>Conestoga college, <span>.</span></li>
                                 <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">harman@singh.com</a></li>
                                 <li><i class="fa fa-phone" aria-hidden="true"></i>2268989355</li>
                             </ul>
@@ -192,14 +192,9 @@
                         <div class="modal-body">
                             <img src="images/g9.jpg" alt=" " class="img-responsive" />
                             <p>
-                                Ut enim ad minima veniam, quis nostrum 
-							exercitationem ullam corporis suscipit laboriosam, 
-							nisi ut aliquid ex ea commodi consequatur? Quis autem 
-							vel eum iure reprehenderit qui in ea voluptate velit 
-							esse quam nihil molestiae consequatur, vel illum qui 
-							dolorem eum fugiat quo voluptas nulla pariatur.
-							<i>" Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
-								esse quam nihil molestiae consequatur.</i>
+                                Health plus is one of best place to connect with your doctor and share
+                                medical data securely and previsely. You can connect with different doctors at same time.
+							<i>" You can remotely connect with them and find the best way to resolve your health issues..</i>
                             </p>
                         </div>
                     </section>

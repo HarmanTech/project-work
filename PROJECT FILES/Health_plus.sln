@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AttributeBasedEncryptioninHospital", "AttributeBasedEncryptioninHospital\", "{4EF1FF1D-6B92-4876-A150-28A29CF6EB73}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Health_plus", "Health_plus\", "{4EF1FF1D-6B92-4876-A150-28A29CF6EB73}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_58652"
-		Debug.AspNetCompiler.PhysicalPath = "AttributeBasedEncryptioninHospital\"
+		Debug.AspNetCompiler.PhysicalPath = "Health_plus\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58652\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_58652"
-		Release.AspNetCompiler.PhysicalPath = "AttributeBasedEncryptioninHospital\"
+		Release.AspNetCompiler.PhysicalPath = "Health_plus\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58652\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "58652"
-		SlnRelativePath = "AttributeBasedEncryptioninHospital\"
+		SlnRelativePath = "Health_plus\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
