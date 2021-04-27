@@ -35,14 +35,16 @@ public partial class ipregister : System.Web.UI.Page
         cmd.Parameters.Add(p);
 
         SqlParameter pid = new SqlParameter("@patientid", SqlDbType.Int, 2000);
-        pid.Value = new Random(100);
+        Random rn = new Random(100);
+        Int32 number = rn.Next();
+        pid.Value = number;
          cmd.Parameters.Add(pid);
 
         SqlParameter p1 = new SqlParameter("@gender", SqlDbType.VarChar, 20);
         p1.Value = DropDownList1.
             Text;
         cmd.Parameters.Add(p1);
-        SqlParameter p2 = new SqlParameter("@age", SqlDbType.VarChar);
+        SqlParameter p2 = new SqlParameter("@age", SqlDbType.Int);
         p2.Value = TextBox3.Text;
         cmd.Parameters.Add(p2);
 

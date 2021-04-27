@@ -31,10 +31,10 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
             <div class="header_agileinfo">
                 <div class="w3_agileits_header_text">
                     <ul class="top_agile_w3l_info_icons">
-                        <li><i class="fa fa-home" aria-hidden="true"></i>conestoga college.</li>
-                        <li class="second"><i class="fa fa-phone" aria-hidden="true"></i>2268989355</li>
+                        <li><i class="fa fa-home" aria-hidden="true"></i>123, Health Plus, Cambridge</li>
+                        <li class="second"><i class="fa fa-phone" aria-hidden="true"></i>1500-100-100</li>
 
-                        <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">harman@singh.com</a></li>
+                        <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">www.healthplus.com</a></li>
                     </ul>
 
                 </div>
@@ -59,7 +59,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
                         </button>
                         <div class="logo">
                             <h1><a class="navbar-brand" href="index.html"><span>H</span>ealth plus <i class="fa fa-plus" aria-hidden="true"></i>
-                                <p>Quality Diet 4U</p>
+                                <p>Quality Care 4U</p>
                             </a></h1>
                         </div>
                     </div>
@@ -102,9 +102,9 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 					<div class="col-md-4 w3agile_footer_grid">
 						<h3>Contact Info</h3>
 						<ul>
-							<li><i class="fa fa-map-marker" aria-hidden="true"></i>12345 cambridge <span>Ontario.</span></li>
-							<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">harman@singh.com</a></li>
-							<li><i class="fa fa-phone" aria-hidden="true"></i>+1 2268989355</li>
+							<li><i class="fa fa-map-marker" aria-hidden="true"></i>123, Cambridge <span>Ontario.</span></li>
+							<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">www.healthplus.com</a></li>
+							<li><i class="fa fa-phone" aria-hidden="true"></i>1500-100-100</li>
 						</ul>
 					</div>
 					<div class="col-md-4 w3agile_footer_grid w3agile_footer_grid1">
@@ -120,7 +120,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 			</div>
 			<div class="w3_agileits_copy_right_social">
 				<div class="col-md-6 agileits__copy_right">
-					<p>&copy; 2021 health plus by harman, dilpreet, ankur <a href="http://.com/"></a></p>
+					<p>&copy; 2021 health plus by Harman, Dilpreet, Ankur <a href="http://.com/"></a></p>
 				</div>
 				<div class="col-md-6 w3_agile_copy_right">
 					<ul class="agileits_social_list">

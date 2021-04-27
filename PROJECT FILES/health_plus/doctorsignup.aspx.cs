@@ -80,6 +80,7 @@ public partial class doctorsignup : System.Web.UI.Page
     protected void subbtn_Click(object sender, EventArgs e)
     {
         cn.Open();
+ 
         SqlCommand cmd = new SqlCommand();
         cmd.CommandType = CommandType.StoredProcedure;
         cmd.CommandText = "spadddoctor";
