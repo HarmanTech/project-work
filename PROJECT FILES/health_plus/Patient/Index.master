@@ -90,8 +90,8 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 		<div class="container">
 			<h4>Subscribe to <span>Newsletter</span></h4>
 			<form action="#" method="post">
-				<input type="email" name="Email" placeholder="Enter Your Email..." >
-				<input type="submit" value="Send" onclick="newsthanks()">
+				<input type="email" name="Email" placeholder="Enter Your Email...">
+				<input type="submit" value="Send" onclick =" newsthanks()">
 			</form>
 			<div class="agile_footer_copy">
 				<div class="w3agile_footer_grids">
@@ -102,8 +102,8 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 					<div class="col-md-4 w3agile_footer_grid">
 						<h3>Contact Info</h3>
 						<ul>
-							<li><i class="fa fa-map-marker" aria-hidden="true"></i>123, Health PlusCambridge <span>Ontario.</span></li>
-							<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">Mail@healthplus.com</a></li>
+							<li><i class="fa fa-map-marker" aria-hidden="true"></i>123, Cambridge <span>Ontario.</span></li>
+							<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:harman@singh.com">www.healthplus.com</a></li>
 							<li><i class="fa fa-phone" aria-hidden="true"></i>1500-100-100</li>
 						</ul>
 					</div>
@@ -183,7 +183,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
                     </div>
                     <section>
                         <div class="modal-body">
-                            <img src="images/g9.jpg" alt=" " class="img-responsive" />
+                            <img src="images/g9.jpg" alt=" model" class="img-responsive" />
                             <p>
                                 Ut enim ad minima veniam, quis nostrum 
 							exercitationem ullam corporis suscipit laboriosam, 

@@ -90,7 +90,7 @@
 			<h4>Subscribe to <span>Newsletter</span></h4>
 			<form action="#" method="post">
 				<input type="email" name="Email" placeholder="Enter Your Email..." >
-				<input type="submit" value="Send" onclick =" newsthanks()">
+				<input type="submit" value="Send" onclick = " newsthanks()">
 			</form>
 			<div class="agile_footer_copy">
 				<div class="w3agile_footer_grids">
@@ -182,7 +182,7 @@
                     </div>
                     <section>
                         <div class="modal-body">
-                            <img src="images/g9.jpg" alt=" " class="img-responsive" />
+                            <img src="images/g9.jpg" alt=" model" class="img-responsive" />
                             <p>
                                 Health plus is one of best place to connect with your doctor and share
                                 medical data securely and previsely. You can connect with different doctors at same time.
