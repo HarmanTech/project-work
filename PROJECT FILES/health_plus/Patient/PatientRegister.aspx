@@ -55,7 +55,8 @@
             <td class="txt-lt">Age:
             </td>
             <td class="contact-form-aits">
-                <asp:TextBox ID="TextBox3" CssClass="txt-center" runat="server"></asp:TextBox>
+                <asp:TextBox ID="TextBox3" CssClass="txt-center" runat="server" MaximumValue="120" 
+   MinimumValue="1"></asp:TextBox>
             </td>
         </tr>
         <tr>
@@ -76,9 +77,6 @@
             <td class="contact-form-aits">
                 <asp:TextBox ID="TextBox12" CssClass="txt-center" runat="server"></asp:TextBox>
             </td>
-
-
-
 
 
             <td class="txt-lt">Department:

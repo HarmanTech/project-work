@@ -138,7 +138,7 @@
 					<input type="text" name="Subject" placeholder="Subject" required="">
 					<textarea name="Message" placeholder="Message" required=""></textarea>
 					<div class="send-button agileits ">
-						<button class="btn btn-primary">SEND MESSAGE</button>
+						<button onclick="welcome()" class="btn btn-primary">SEND MESSAGE</button>
 					</div>
 				  </form>
 				  <ul class="agileits_social_list two">
@@ -161,7 +161,7 @@
 			<h4>Subscribe to <span>Newsletter</span></h4>
 			<form action="#" method="post">
 				<input type="email" name="Email" placeholder="Enter Your Email..." >
-				<input type="submit" value="Send">
+				<input type="submit" value="Send" onclick="newsthanks()">
 			</form>
 			<div class="agile_footer_copy">
 				<div class="w3agile_footer_grids">
@@ -264,6 +264,19 @@
 			$().UItoTop({ easingType: 'easeOutQuart' });
 								
 			});
+	</script>
+
+	<script>
+        function welcome() {
+			alert("Message sent successfully...");
+			window.open("contact.html")
+        } 
+	</script>
+	<script>
+		function newsthanks() {
+			alert("Thanks for subscribing to our newsletter");
+			window.open("contact.html");
+        }
 	</script>
 <!-- //here ends scrolling icon -->
 </body>

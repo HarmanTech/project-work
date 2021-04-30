@@ -24,7 +24,7 @@
         </tr>
         <tr>
             <td>
-                <span style="color: black" class="txt-center">UserID: </span>
+                <span style="color: black" class="txt-center">Email id: </span>
             </td>
             <td class="contact-form-aits">
                 <asp:TextBox CssClass="txt-center" ID="lidtxt" runat="server"></asp:TextBox>

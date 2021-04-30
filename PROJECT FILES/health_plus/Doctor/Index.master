@@ -93,7 +93,7 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 			<h4>Subscribe to <span>Newsletter</span></h4>
 			<form action="#" method="post">
 				<input type="email" name="Email" placeholder="Enter Your Email...">
-				<input type="submit" value="Send">
+				<input type="submit" value="Send" onclick= "newsthanks()">
 			</form>
 			<div class="agile_footer_copy">
 				<div class="w3agile_footer_grids">

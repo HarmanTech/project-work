@@ -90,7 +90,7 @@
 			<h4>Subscribe to <span>Newsletter</span></h4>
 			<form action="#" method="post">
 				<input type="email" name="Email" placeholder="Enter Your Email...">
-				<input type="submit" value="Send">
+				<input type="submit" value="Send" onclick =" newsthanks()">
 			</form>
 			<div class="agile_footer_copy">
 				<div class="w3agile_footer_grids">
@@ -248,6 +248,13 @@
 
             });
         </script>
+
+        	<script>
+                function newsthanks() {
+                    alert("Thanks for subscribing to our newsletter");
+                    window.open("index.html");
+                }
+            </script>
     </form>
     <!-- //here ends scrolling icon -->
 </body>
